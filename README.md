@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dangrereyes@gmail.com**
 
-- 📄 Know about my experiences [I'm a programming enthusiast, I've had opportunities working on Flutter and React Native Apps as well as developing backend applications in .Net and NodeJS.](I'm a programming enthusiast, I've had opportunities working on Flutter and React Native Apps as well as developing backend applications in .Net and NodeJS.)
+- 📄 Know about my experiences (I'm a programming enthusiast, I've had opportunities working on Flutter and React Native Apps as well as developing backend applications in .Net and NodeJS.)
 
 - ⚡ Fun fact **I think the programming is fantastic**
 
