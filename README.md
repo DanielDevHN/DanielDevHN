@@ -25,6 +25,8 @@ I'm a **Software Engineer from Honduras** focused on building scalable, maintain
 
 Currently, I work as a **Senior Software Developer at Corporación La Cumbre**, where I develop enterprise applications, automate internal processes, integrate business systems and explore the use of **AI agents and automation workflows** to improve operational efficiency.
 
+Alongside my professional role, I’m currently pursuing graduate studies in **IT Management** and **Artificial Intelligence**, strengthening my ability to connect software engineering, business strategy and AI-driven innovation.
+
 I enjoy designing solutions that are not only functional, but also clean, scalable and aligned with real business needs.
 
 ---
@@ -46,6 +48,7 @@ I enjoy designing solutions that are not only functional, but also clean, scalab
 - AI agents and workflow automation
 - Scalable Angular monorepos with Nx
 - Backend development with NestJS and PostgreSQL
+- IT management, technology strategy and digital transformation
 - Clean code, maintainability and software engineering best practices
 - AI applied to business process optimization
 
@@ -95,6 +98,7 @@ I’m actively working with tools and technologies that connect software enginee
 - Custom Node.js integrations
 - API orchestration and system-to-system communication
 - Intelligent assistants for operational support
+- Practical AI adoption in business and enterprise environments
 
 ---
 
@@ -105,25 +109,20 @@ I’m actively working with tools and technologies that connect software enginee
 - Enterprise application development
 - Artificial Intelligence applied to real business problems
 - Automation and process optimization
+- IT management and technology strategy
 - Developer productivity and scalable engineering practices
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Profile Snapshot
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=danieldevhn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    alt="Daniel Reyes GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevhn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages" 
-  />
-</p>
+- 💼 Senior Software Developer focused on enterprise software solutions
+- 🧩 Experience building scalable frontend architectures with Angular, Nx and NgRx
+- ⚙️ Backend development with NestJS, Node.js, .NET and REST APIs
+- 🗄️ Database experience with PostgreSQL, SQL Server, MongoDB and Firebase
+- 🤖 Actively working with AI agents, automation workflows, n8n and Dify
+- 🎓 Graduate studies in IT Management and Artificial Intelligence
+- 🧠 Passionate about clean code, software architecture and business process optimization
 
 ---
 
