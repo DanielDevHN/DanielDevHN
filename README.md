@@ -5,9 +5,7 @@ Senior Software Developer | Full Stack Engineer | AI & Automation Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/danieldevhn">
-    <img src="https://komarev.com/ghpvc/?username=danieldevhn&label=Profile%20views&color=0e75b6&style=flat" alt="danieldevhn" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=danieldevhn&label=Profile%20views&color=0e75b6&style=flat" alt="danieldevhn" />
 </p>
 
 <p align="center">
@@ -58,31 +56,31 @@ I enjoy designing solutions that are not only functional, but also clean, scalab
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,tailwind,bootstrap" alt="Frontend technologies" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,java" alt="Backend technologies" />
 </p>
 
 ### Mobile
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" alt="Mobile technologies" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" alt="Databases" />
 </p>
 
 ### DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,azure,vscode" alt="DevOps and tools" />
 </p>
 
 ---
@@ -114,26 +112,32 @@ I’m actively working with tools and technologies that connect software enginee
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieldevhn&show_icons=true&theme=default&hide_border=true" alt="Daniel Reyes GitHub stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=danieldevhn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    alt="Daniel Reyes GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevhn&layout=compact&hide_border=true" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevhn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
 
 ## 🌎 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/devdanielreyes" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devdanielreyes" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/the.daniel.reyes" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="the.daniel.reyes" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-Daniel%20Reyes-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/danircode" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danircode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-danircode-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -141,4 +145,4 @@ I’m actively working with tools and technologies that connect software enginee
 
 ## ⚡ Personal Note
 
-I believe software development is not only about writing code, but about creating solutions that solve real problems, improve processes and generate value for people and organizations.
+> I believe software development is not only about writing code, but about creating solutions that solve real problems, improve processes and generate value for people and organizations.
